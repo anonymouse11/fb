@@ -910,7 +910,7 @@ def main():
   global target_id
 
   try:
-	cek = raw_input(R + '(R15K1' + W +' )==> ')
+	cek = raw_input(R + '(Solo_Players' + W +' )==> ')
 
 	if cek.lower() == 'get_data':
 		if len(jml) == 0:
