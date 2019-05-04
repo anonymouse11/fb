@@ -70,10 +70,10 @@ def show_program():
 	print '''
                     %sINFORMASI%s
 []=====================================================[]
-[] AUTHOR :  RISKI DARMAWAN                            []
-[] W A    :   085836465872                             []
-[] NO HP  : 085835295133                               []
-[] PESAN  : GUNAKAN TOOLS INI DENGAN BIJAK             []
+[] AUTHOR.  :  solo players                            []
+[] TELEGRAM :  087872579920                            []
+[] NO HP    :  087872579920                            []
+[] PESAN    :  GUNAKAN TOOLS INI DENGAN BIJAK          []
 []=====================================================[]
 '''%(G,W)
 def info_ga():
