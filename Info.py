@@ -53,7 +53,7 @@ def baliho():
 
 	except (KeyError,IOError):
 	
-		print (W + '           [' + G +'##############################'+ W + ']')
+		print (W + '           [' + G +'******************************'+ W + ']')
 		print (W + '           [' + G +'        assalamualaikum'+ W + '       ]')
                 print (W + '           [' + G +'                              '+ W + ']')
 		print (W + '           [' + G +'KETIK TOKEN UNTUK LOGIN AKUN'+ W + '  ]')
@@ -61,9 +61,10 @@ def baliho():
 		print (W + '           [' + G +'GUNAKAN DENGAN BIJAK'+ W + '          ]')
 		print (W + '           [' + G +'                              '+ W + ']')
 		print (W + '           [' + G +'    ALAT KEPERLUAN FACEBOOK'+ W + '   ]')
-		print (W + '           [' + G +'##############################'+ W + ']')
+		print (W + '           [' + G +'******************************'+ W + ']')
                 print (W + '           [' + G +'         Solo_Players'+ W + '         ]')
                 print (W + '           [' + G +'             Doddy'+ W + '            ]')
+                print (W + '           [' + G +'         °°°°°°°°°°°°'+ W + '         ]')
 		print (' ')
 		print (' ')
 ####################################################################
