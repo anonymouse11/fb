@@ -55,15 +55,15 @@ def baliho():
 	
 		print (W + '           [' + G +'##############################'+ W + ']')
 		print (W + '           [' + G +'        assalamualaikum'+ W + '       ]')
-                Print (W + '           [' + G +'                              '+ W + ']')
+                print (W + '           [' + G +'                              '+ W + ']')
 		print (W + '           [' + G +'KETIK TOKEN UNTUK LOGIN AKUN'+ W + '  ]')
 		print (W + '           [' + G +'KETIK help untuk bantuan'+ W + '      ]')
 		print (W + '           [' + G +'GUNAKAN DENGAN BIJAK'+ W + '          ]')
 		print (W + '           [' + G +'                              '+ W + ']')
 		print (W + '           [' + G +'    ALAT KEPERLUAN FACEBOOK'+ W + '   ]')
 		print (W + '           [' + G +'##############################'+ W + ']')
-                Print (W + '           [' + G +'         Solo_Players'+ W + '         ]')
-                Print (W + '           [' + G +'             Doddy'+ W + '            ]')
+                print (W + '           [' + G +'         Solo_Players'+ W + '         ]')
+                print (W + '           [' + G +'             Doddy'+ W + '            ]')
 		print (' ')
 		print (' ')
 ####################################################################
