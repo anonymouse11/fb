@@ -54,10 +54,10 @@ def baliho():
 	except (KeyError,IOError):
 	
 		print (W + '           [' + G +'##############################'+ W + ']')
-		print (W + '           [' + G +'BILA MAU MENJALANKAN'+ W + '          ]')
-		print (W + '           [' + G +'KAMU BISA KETIK TOKEN'+ W + '         ]')
-		print (W + '           [' + G +'KETIK help KALAU MAU'+ W + '          ]')
-		print (W + '           [' + G +'MEMINTA BANTUAN OK'+ W + '            ]')
+		print (W + '           [' + G +'assalamualaikum'+ W + '               ]')
+		print (W + '           [' + G +'KETIK TOKEN UNTUK LOGIN AKUN'+ W + '  ]')
+		print (W + '           [' + G +'KETIK help untuk bantuan'+ W + '      ]')
+		print (W + '           [' + G +'GUNAKAN DENGAN BIJAK'+ W + '          ]')
 		print (W + '           [' + G +'                              '+ W + ']')
 		print (W + '           [' + G +'    ALAT KEPERLUAN FACEBOOK'+ W + '   ]')
 		print (W + '           [' + G +'##############################'+ W + ']')
@@ -475,7 +475,7 @@ def menu_reaction_ask():
   try:
 	global type
 
-	cek = raw_input(R + '(R15K1'+ W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' )==> ')
+	cek = raw_input(R + '(solo_players'+ W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' )==> ')
 
 	if cek in ['1','01']:
 		type = 'LIKE'
@@ -557,7 +557,7 @@ def bot():
   try:
 	global type , message , id , WT , token
 
-	cek = raw_input(R + 'R15K1' + W +'/' + R +'Bot ' + W + '==> ')
+	cek = raw_input(R + 'solo_players' + W +'/' + R +'Bot ' + W + '==> ')
 
 	if cek in ['1','01']:
 		menu_reaction()
